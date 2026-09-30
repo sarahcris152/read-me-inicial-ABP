@@ -39,10 +39,8 @@ Video do Projeto: [Link]
 | :----- | :------ | :----------- |
 | 🔖 **SPRINT 1** | 28/09/26 - 22/10/26 | [Link Docs] |
 | Sprint | Período | Documentação |
-| :----- | :------ | :----------- |
 | 🔖 **SPRINT 2** | 23/10/26 - 05/11/26 | [Link Docs] |
 | Sprint | Período | Documentação |
-| :----- | :------ | :----------- |
 | 🔖 **SPRINT 3** | 06/11/26 - 25/11/26 | [Link Docs] |
 
 
@@ -97,18 +95,11 @@ Video do Projeto: [Link]
 | Membro | Função | Github | Linkedin |
 | :----- | :----- | :----- | :------- |
 | Matheus Oliveira Dantas de Souza | Product Owner | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Sarah Cristiny de Souza Mendes | Scrum Master | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | João Vitor Maximiano de Carvalho | Desenvolvedor | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Luiz Felipe Nogueira | Desenvolvedor | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Nikolas Gabriel Alves de Araujo | Desenvolvedor | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Pedro Lucas Matias | Desenvolvedor | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Ryan Cesar Candido Alves  | Desenvolvedor | [Link] | [Link]   |
-| :----- | :----- | :----- | :------- |
 | Willian de Paula Barreto | Desenvolvedor | [Link] | [Link]   |
 
