@@ -38,22 +38,16 @@ Video do Projeto: [Link]
 | Sprint | Período | Documentação |
 | :----- | :------ | :----------- |
 | 🔖 **SPRINT 1** | 28/09/26 - 22/10/26 | [Link Docs] |
-| Sprint | Período | Documentação |
 | 🔖 **SPRINT 2** | 23/10/26 - 05/11/26 | [Link Docs] |
-| Sprint | Período | Documentação |
 | 🔖 **SPRINT 3** | 06/11/26 - 25/11/26 | [Link Docs] |
 
 
 
 ## 💻 Tecnologias
-<!-- GitHub -->
 ![GitHub](https://shields.io)
-
-<!-- VS Code -->
 ![VS Code](https://shields.io)
-
-<!-- Figma -->
 ![Figma](https://shields.io)
+
 ## 📖 Manual de Instalação
 
 ### 🛠 Pré-requisitos
