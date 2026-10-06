@@ -30,61 +30,47 @@ Video do Projeto: [Link]
 - Criar e popular o banco de dados com as questões dos primeiros tópicos de agilidade.
 - Desenvolver os protótipos de interface gráfica e telas estáticas do front-end.
 
-📌 Histórias Selecionadas para a Sprint 1
-
-US01 - Visualizar informações da certificação #1
-**Como candidato,**  
-Quero visualizar as informações da certificação para entender seu funcionamento antes de acessá-la.
-- **Tarefas:**
--A tela inicial deve apresentar uma descrição da certificação.
--Deve apresentar os objetivos da certificação.
--Deve apresentar instruções para realização da avaliação.
--Deve existir uma opção para o usuário prosseguir para o login.
-- **Prioridade:** Alta (2)
-- **Critérios de Aceite:** A descrição da certificação deve estar detalhada, e deve existir uma opção para o usuário prosseguir para o login;
----
-
-US02 - Realizar login no portal #2
-**Como candidato,**  
-Quero realizar login utilizando meu CPF e senha para acessar as funcionalidades do portal.
-- **Tarefas:**
--O login deve solicitar CPF e senha.
--O sistema deve validar as credenciais informadas.
--O acesso deve ser permitido somente quando CPF e senha forem válidos.
--Em caso de credenciais inválidas, o sistema deve informar que não foi possível realizar o login.
--Após o login realizado com sucesso, o candidato deve ser direcionado ao Menu Principal.
-- **Prioridade:** Alta (3)
-- **Critérios de Aceite:** O login deve exigir CPF e senha válidos para direcionar o candidato ao Menu Principal, exibindo uma mensagem de erro caso as credenciais estejam incorretas.
----
-
-US03 - Acessar cadastro de candidato #3
-**Como candidato,**  
-Quero realizar login utilizando meu CPF e senha para acessar as funcionalidades do portal.
-- **Tarefas:**
--A tela de login deve possuir uma opção para cadastro.
--Ao selecionar a opção de cadastro, o usuário deve ser direcionado para a tela de cadastro.
--A tela de cadastro deve disponibilizar os campos necessários para criação da conta.
-- **Prioridade:** Alta (1)
-- **Critérios de Aceite:** A opção de cadastro na tela de login deve redirecionar o candidato para uma nova tela contendo todos os campos necessários para a criação da conta.
----
-
-US04 - Cadastrar candidato #4
-**Como candidato,**  
-Quero me cadastrar utilizando meus dados pessoais para criar uma conta no portal.
-- **Tarefas:**
--O cadastro deve solicitar CPF, nome completo, e-mail e senha.
--O CPF deve ser utilizado como identificador único do candidato.
--O sistema não deve permitir dois candidatos com o mesmo CPF.
--Os campos obrigatórios devem ser validados antes da conclusão do cadastro.
--Após um cadastro válido, o sistema deve informar que a conta foi criada com sucesso.
-
-- **Prioridade:** Alta (5)
-- **Critérios de Aceite:** O sistema deve validar os campos obrigatórios e barrar CPFs duplicados, confirmando o sucesso da criação da conta com o CPF como identificador único.
----
 
 
+| Item | História / Descrição | Prioridade | Critérios de Aceite |
+| --- | --- | --- | --- |
+| **US01** | **Visualizar informações da certificação**<br>
 
----------------------------------------------------------------------CONTINUAR
+<br>*Como candidato, quero visualizar as informações da certificação para entender seu funcionamento antes de acessá-la.* | Alta (2) | A descrição da certificação deve estar detalhada, e deve existir uma opção para o usuário prosseguir para o login; |
+| **US02** | **Realizar login no portal**<br>
+
+<br>*Como candidato, quero realizar login utilizando meu CPF e senha para acessar as funcionalidades do portal.* | Alta (3) | O login deve exigir CPF e senha válidos para direcionar o candidato ao Menu Principal, exibindo uma mensagem de erro caso as credenciais estejam incorretas. |
+| **US03** | **Acessar cadastro de candidato**<br>
+
+<br>*Como candidato, quero realizar login utilizando meu CPF e senha para acessar as funcionalidades do portal.* | Alta (1) | A opção de cadastro na tela de login deve redirecionar o candidato para uma nova tela contendo todos os campos necessários para a criação da conta. |
+| **US04** | **Cadastrar candidato**<br>
+
+<br>*Como candidato, quero me cadastrar utilizando meus dados pessoais para criar uma conta no portal.* | Alta (5) | O sistema deve validar os campos obrigatórios e barrar CPFs duplicados, confirmando o sucesso da criação da conta com o CPF como identificador único. |
+| **US05** | **Escolher ação após concluir o cadastro**<br>
+
+<br>*Como candidato, quero escolher entre iniciar a certificação ou acessar o menu principal para decidir como prosseguir no portal.* | Alta (2) | O sistema deve exibir uma mensagem de sucesso e oferecer a escolha entre iniciar a certificação — redirecionando para a Página de Exames — ou não iniciá-la naquele momento, direcionando o candidato para o Menu Principal. |
+| **US06** | **Acessar o Menu Principal**<br>
+
+<br>*Como candidato, quero acessar um menu principal para navegar pelas funcionalidades disponíveis no portal.* | Alta (2) | Após o login, o Menu Principal deve exibir as opções de acesso à Página de Exames, Área de Estudos, Histórico, Certificados e a funcionalidade para encerrar a sessão. |
+| **US07** | **Navegar entre as áreas do portal**<br>
+
+<br>*Como candidato, quero selecionar uma funcionalidade no menu para acessar a área desejada do portal.* | Alta (2) | Como candidato autenticado, ao selecionar uma opção no menu, o sistema deve direcioná-lo para a Página de Exames, Área de Estudos, Histórico ou Certificados, permitindo que ele retorne ao Menu Principal a partir de qualquer uma dessas áreas internas. |
+| **US08** | **Visualizar temas da Área de Estudos**<br>
+
+<br>*Como candidato, quero visualizar os temas disponíveis na Área de Estudos para escolher o conteúdo que desejo estudar.* | Alta (2) | A Área de Estudos deve apresentar de forma organizada os 12 temas da certificação, permitindo que o candidato selecione individualmente qualquer um deles para ser direcionado ao respectivo conteúdo. |
+| **US09** | **Acessar conteúdo de estudo de um tema**<br>
+
+<br>*Como candidato, quero acessar o material de estudo de um tema para me preparar para a certificação.* | Alta (3) | Ao selecionar um tema na lista, o sistema deve exibir um material didático coerente, enriquecido com imagens e recursos de aprendizagem, permitindo que o candidato retorne à lista de temas a qualquer momento. |
+| **US10** | **Navegar entre os conteúdos de estudo**<br>
+
+<br>*Como candidato, quero navegar entre os diferentes temas da Área de Estudos para consultar os conteúdos disponíveis.* | Alta (2) | O candidato deve conseguir navegar livremente entre os 12 temas de estudo sem iniciar uma certificação, podendo alternar entre eles, retornar à lista de temas ou voltar ao Menu Principal a qualquer momento. |
+| **US36** | **Implementar banco de dados PostgreSQL**<br>
+
+<br>*Como equipe de desenvolvimento, queremos persistir os dados do portal em PostgreSQL para atender à arquitetura definida para o projeto.* | Alta (8) | O banco de dados PostgreSQL deve ser estruturado com comandos DDL com base nos modelos conceitual e lógico para armazenar dados de usuários, temas, questões, imagens, alternativas, respostas, certificados e histórico, permitindo sua manipulação por comandos DML. |
+| **US37** | **Implementar arquitetura Web da aplicação**<br>
+
+<br>*Como equipe de desenvolvimento, queremos implementar a comunicação entre front-end, back-end e banco de dados para permitir o funcionamento integrado do portal.* | Alta (8) | O sistema deve integrar o front-end em HTML, CSS e JavaScript puro com o back-end para gerenciar a comunicação com o banco de dados, garantindo a validação de regras sensíveis no servidor e um tempo de resposta adequado. |
+
 ## 📋 Requisitos e Cobertura do Projeto
 
 ### Requisitos Funcionais (RF) Contemplados
@@ -105,7 +91,7 @@ Quero me cadastrar utilizando meus dados pessoais para criar uma conta no portal
 ---
 
 ## 📚 Conteúdo Programático (12 Temas da Certificação)
-O escopo do banco de dados abrange os 12 primeiros tópicos da Engenharia de Software Ágil:
+O escopo do banco de dados abrange os 12 seguintes tópicos da Engenharia de Software Ágil:
 
 1. **Fundamentos da Agilidade:** Crise do software, desenvolvimento tradicional cascata × ágil.
 2. **Manifesto Ágil:** Os 4 valores fundamentais e os 12 princípios norteadores.
