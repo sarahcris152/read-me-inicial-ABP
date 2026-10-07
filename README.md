@@ -1,6 +1,4 @@
-Aqui está a estrutura do **README (principal)** organizada com todos os tópicos e elementos obrigatórios listados na imagem, preenchida com as informações do seu projeto:
-
----
+#SPRINT 1 
 
 # 🎯 Portal de Certificação em Metodologias Ágeis
 
@@ -18,7 +16,7 @@ A falta de ferramentas práticas e interativas para mensurar o aprendizado gera 
 
 ---
 
-## 📋 Backlog do Produto
+## 📋 Backlog do Produto - SPRINT 1
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Requisito Relacionado | Status |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,13 +128,13 @@ Toda a documentação complementar, checklists, manuais e critérios de qualidad
 
 | Foto | Nome Completo | Papel no Scrum | GitHub | LinkedIn |
 | --- | --- | --- | --- | --- |
-|  | **Matheus Oliveira Dantas de Souza** | Product Owner | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Sarah Cristiny de Souza Mendes** | Scrum Master | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **João Vitor Maximiano de Carvalho** | Desenvolvedor Core | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Luiz Felipe Nogueira** | Desenvolvedor Banco | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Nikolas Gabriel Alves de Araujo** | Desenvolvedor Front | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Pedro Lucas Matias** | Desenvolvedor Back | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Ryan Cesar Candido Alves** | Desenvolvedor Back | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
-|  | **Willian de Paula Barreto** | Desenvolvedor Front | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Matheus Oliveira Dantas de Souza** | Product Owner | https://github.com/Matheus7souza | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Sarah Cristiny de Souza Mendes** | Scrum Master | https://github.com/sarahcris152 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **João Vitor Maximiano de Carvalho** | Desenvolvedor | https://github.com/JoaoCbca | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Luiz Felipe Nogueira** | Desenvolvedor | https://github.com/luiz274 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Nikolas Gabriel Alves de Araujo** | Desenvolvedor | https://github.com/NikoRamid | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Pedro Lucas Matias** | Desenvolvedor | [GitHub](https://github.com) | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Ryan Cesar Candido Alves** | Desenvolvedor | https://github.com/ryancesar22 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
+|  | **Willian de Paula Barreto** | Desenvolvedor | https://github.com/will1907 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
 
 
