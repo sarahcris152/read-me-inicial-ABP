@@ -1,14 +1,16 @@
 #SPRINT 1 
 
-# 🎯 Portal de Certificação em Metodologias Ágeis
+# 🎯 BorB - Plataforma de Estudos Scrum
 
 > **Projeto Integrador - 1º Semestre / 2026-2**
+> 
 > **Curso:** Desenvolvimento de Software Multiplataforma — FATEC Jacareí
+> 
 > **Orientação:** Prof. Marcelo Augusto Sudo
 
 ---
 
-## 🏅 Descrição do Desafio (Dor do Parceiro)
+## 🏅 Descrição do Desafio
 
 É comum que estudantes e profissionais iniciantes em TI encontrem dificuldades para fixar conceitos teóricos de metodologias ágeis (como Scrum e Kanban) e aplicá-los em cenários reais de desenvolvimento.
 
@@ -137,4 +139,21 @@ Toda a documentação complementar, checklists, manuais e critérios de qualidad
 |  | **Ryan Cesar Candido Alves** | Desenvolvedor | https://github.com/ryancesar22 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
 |  | **Willian de Paula Barreto** | Desenvolvedor | https://github.com/will1907 | [LinkedIn](https://www.google.com/search?q=https://linkedin.com) |
 
+
+## 🔖 SPRINT 1 – Fundações, Infraestrutura e Base de Dados
+Período: 28/09/2026 a 22/10/2026
+
+🏃 DoR da Sprint 1
+Protótipos das telas de Login, Cadastro, Menu Principal e Área de Estudos finalizados no Figma.
+
+Modelagem conceitual e lógica do banco de dados PostgreSQL aprovada pelo desenvolvedor responsável.
+
+Arquitetura em contêineres isolados (Front-End, Back-End e PostgreSQL) definida no docker-compose.yml.
+
+🏆 DoD da Sprint 1
+Scripts DDL/DML para criação e povoamento das tabelas de Usuários, Temas e Questões rodando perfeitamente no PostgreSQL via Docker.
+
+Telas estáticas e fluxo de navegação entre Login, Cadastro e Menu Principal funcionais em HTML/CSS/JS nativo.
+
+Endpoints de autenticação (CPF e Senha) e cadastro integrados com o banco de dados.
 
